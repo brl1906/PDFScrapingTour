@@ -26,7 +26,7 @@ go get the repo, clone it & explore it
 ```
 
 ### Installing
-The requirements.txt file contains all of the dependencies necessary to run this program from your machine. It also includes the installation of packages required to convert the jupyter notebook code into a slideshow  though this is not necessary or related to any of the PDF stuff.  You can create a virtual environment and run in your terminal the command:
+The requirements.txt file contains the dependencies necessary to run this program from your machine. It also includes the installation of packages required to convert the jupyter notebook code into a slideshow  though this is not necessary or related to any of the PDF stuff.  You can create a virtual environment and run in your terminal the command:
 '''pip install -r requirements'''
 
 This assumes that you have created a project folder, changed into that directory, have created a virtual environment there, activated the virtual environment for your project, and are running the above command in that location.
@@ -36,9 +36,12 @@ This assumes that you have created a project folder, changed into that directory
   * $ source yourvenvname/bin/activate
   * $ pip install -r requirements
 
+## Presentation Slides
+[Google Slides](https://docs.google.com/presentation/d/1cFwCPy7sZOJU9m-N1tqqfJ3vQWAU1iKO--nA8EfilNE/edit?usp=sharing) for Python Meet Up | Center of Excellence Talk 
+
 ## TODO:
 * - [x] create initial project readme with problem statement
-* - [ ] update additional presentation (BC...)
+* - [X] update additional presentation
 
 
 ## Authors
