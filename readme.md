@@ -7,7 +7,7 @@ If you need to digitize records, extract information from scanned forms, this is
 ## Potential Problem Statements or Use Cases
 Your department, division or organization:
 
-* is trying to make data publicly available on a certain government service that is only released by that organization as a PDF document
+* wants to make data publicly available on a certain government service but the data is only available as PDF.
 
 * needs to answer a statistical question about a frequency, standard deviation or some distribution about the occurrence of something that captured in standard formatted PDFs--like what is the average dollar amount of a change order submitted by some department
 
@@ -37,7 +37,7 @@ This assumes that you have created a project folder, changed into that directory
   * $ pip install -r requirements
 
 ## Presentation Slides
-[Google Slides](https://docs.google.com/presentation/d/1cFwCPy7sZOJU9m-N1tqqfJ3vQWAU1iKO--nA8EfilNE/edit?usp=sharing) for Python Meet Up | Center of Excellence Talk 
+[Google Slides](https://docs.google.com/presentation/d/1cFwCPy7sZOJU9m-N1tqqfJ3vQWAU1iKO--nA8EfilNE/edit?usp=sharing) for Python Meet Up | Center of Excellence Talk
 
 ## TODO:
 * - [x] create initial project readme with problem statement
