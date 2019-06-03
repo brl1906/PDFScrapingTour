@@ -9,7 +9,7 @@ Your department, division or organization:
 
 * wants to make data publicly available on a certain government service but the data is only available as PDF.
 
-* needs to answer a statistical question about a frequency, standard deviation or some distribution about the occurrence of something that captured in standard formatted PDFs--like what is the average dollar amount of a change order submitted by some department
+* needs to answer a question about a frequency, standard deviation or some distribution about the occurrence of something that captured in a PDF--like what is the average dollar amount of a change order submitted by some department
 
 * pays rental fees for space that is occupied by boxes of paper that could be more efficiently stored if scanned, digitized and stored in a database based on some feature of the document data or structure.
 
