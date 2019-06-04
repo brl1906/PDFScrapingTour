@@ -13,7 +13,7 @@ Your department, division or organization:
 
 * pays rental fees for space that is occupied by boxes of paper that could be more efficiently stored if scanned, digitized and stored in a database based on some feature of the document data or structure.
 
-* participates in investigations of events or incidents and often needs to process a significant amount of retrieved scanned PDF documents to prioritize them based on some element of the document metadata or existence of a particular element or string in a scanned document.
+* participates in investigations of events or incidents and  needs to process a significant amount of scanned PDF documents to prioritize them based on some element of the document metadata or existence of a particular element or string in a scanned document.
 
 * somehow.....got their hands on like 2,156 resumes (scanned & paper) and wants to email each of these people to inform them about the launch of a new government fellowship program opportunity to potentially increase the competitiveness of the applicant pool.
 
