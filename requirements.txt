@@ -59,7 +59,7 @@ filelock==2.0.12
 flake8==3.4.0
 Flask==0.12.2
 Flask-Compress==1.4.0
-Flask-Cors==3.0.3
+Flask-Cors==3.0.9
 fpdf==1.7.2
 future==0.17.1
 gevent==1.2.2
