@@ -100,7 +100,7 @@ linear-tsv==1.1.0
 llvmlite==0.20.0
 lml==0.0.4
 locket==0.2.0
-lxml==4.1.0
+lxml==4.6.5
 MarkupSafe==1.0
 matplotlib==3.0.1
 mccabe==0.6.1
